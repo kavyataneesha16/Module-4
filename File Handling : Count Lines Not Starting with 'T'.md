@@ -33,5 +33,3 @@ except FileNotFoundError:
 
 ## Result
 code executed well as per the question.
-
-
