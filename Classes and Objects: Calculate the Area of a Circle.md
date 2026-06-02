@@ -32,4 +32,3 @@ print("Area of the circle is:", result)
 
 ## Result
 If the user enters a radius, the program calculates the area using:
-
