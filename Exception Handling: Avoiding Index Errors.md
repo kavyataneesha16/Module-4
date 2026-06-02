@@ -26,4 +26,3 @@ except IndexError:
 
 ## Result
 The program handles the IndexError and prints a message when the index is out of range.
-
