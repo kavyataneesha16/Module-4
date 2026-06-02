@@ -56,6 +56,3 @@ print("Sorted by Values:", sorted_by_values)
 
 ## Result
 The dictionary is successfully sorted by keys and values in alphabetical order.
-
-
-
